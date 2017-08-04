@@ -1,0 +1,101 @@
+/*a{
+	color: #3599DB;
+}
+
+pre {
+	background: #ffffff
+}
+
+body{
+	background: #f9fafe
+}
+
+#sidebar{
+	background-color: #ffffff;
+}*/
+.tabs-wrapper{
+background: #fff;
+border-radius: 3px;
+overflow: hidden;
+margin: 0.5rem 0 1rem!important;
+}
+
+.tabs-nav{
+	background: #ffffff;
+	border-radius: 3px;
+
+}
+
+.tabs-nav li a{
+	color: #555;
+	font-size: 0.9rem;
+	border: none!important;
+	background: none!important;
+	padding: 0.70rem 1.4rem!important;
+}
+
+.tabs-nav li.current a{
+	color: #3599DB;
+	font-weight: inherit!important;
+	border-bottom: 1px solid #3599DB!important;
+}
+
+.tabs-wrapper .tab{
+	border: none!important;
+	border-top: 1px solid #EBEFF2!important;
+
+		padding: 0.5rem 1rem!important;
+}
+
+.tabs-wrapper .tab pre{
+	border: none!important;
+	padding: 0!important;
+}
+
+.tabs-wrapper .tabs-nav li:hover{
+	background: #EBEFF2!important
+}
+
+ul, ol{
+padding-left: 2.5ch;
+}
+
+table{
+	border-color: #DAE3E8;
+	border: none;
+	border-radius: 3px;
+	margin: 0.5rem 0 1rem;
+	font-size: 0.9rem;
+	table-layout: fixed;
+
+}
+
+th{
+	background: #FFF;;
+	/*border: 1px solid #DAE3E8;*/
+	border:none;
+	padding: 0.7rem 0.5rem;
+}
+
+td{
+	padding: 0.5rem;
+	background: #fff;
+	/*border: 1px solid #DAE3E8;*/
+	border: none;
+	border-top: 1px solid #DAE3E8;
+}
+
+td:first-of-type, th:first-of-type{
+	padding-left: 1rem;
+}
+
+/* iOS bug */
+@media only all and (max-width: 47.938em) {
+input{
+  font-size: 16px!important;
+}
+}
+
+code{
+	padding: 0!important;
+}

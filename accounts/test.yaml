@@ -1,0 +1,6 @@
+email: test@makeitsocial.com
+state: enabled
+access:
+  site:
+    login: 'true'
+hashed_password: $2y$10$tENdvoVd.SIuazoeDhvw1O0i02rzWdxOIJRbpaiE3FySfOftuNPEm

@@ -1,0 +1,12 @@
+email: david@makeitsocial.com
+fullname: 'David Lazar'
+title: Administrator
+state: enabled
+access:
+  admin:
+    super: 'true'
+    login: 'true'
+  site:
+    login: 'true'
+hashed_password: $2y$10$rA5faF/3GLUWjLGKoM.mDuYT8DW5/8WSzmLefhzbYNQgWSov9hf5W
+language: en

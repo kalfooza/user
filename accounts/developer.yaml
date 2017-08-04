@@ -1,0 +1,9 @@
+email: info@makeitsocial.com
+access:
+  admin:
+    login: true
+    super: true
+fullname: Developer
+title: Developer
+state: enabled
+hashed_password: $2y$10$uGI/B0mwBt6PGJnAoa8POeyh8ZvETdIa0xjS8PI6F96TXv4dPfz/u

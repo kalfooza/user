@@ -1,0 +1,5 @@
+---
+title: Seating
+---
+
+# /seating Overview
